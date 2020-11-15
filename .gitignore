@@ -2,10 +2,3 @@ __MACOSX
 *.pyc
 .ipynb_checkpoints
 .DS_Store
-images.sf/
-lda_assignment_topic_model/
-lda_high_alpha/
-lda_high_gamma/
-lda_low_alpha/
-lda_low_gamma/
-people_wiki.gl/
